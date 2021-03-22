@@ -1,0 +1,1 @@
+This is the icon server for ARTCOIN, one-of-one NFTs based on the SLP layer of Bitcoin Cash.
